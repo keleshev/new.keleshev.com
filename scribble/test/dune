@@ -1,0 +1,5 @@
+(test
+ (name test_scribble)
+ (libraries scribble)
+ (preprocess (pps ppx_sexp_value)))
+

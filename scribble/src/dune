@@ -1,0 +1,3 @@
+(library
+  (name scribble)
+  (libraries parsec sexplib0 base))
